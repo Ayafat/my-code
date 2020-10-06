@@ -1,0 +1,4 @@
+const area = require('./area');
+
+console.log(`Area of Circle: ${area.circle(4)}`);
+console.log(`Area of Square: ${area.square(4)}`);
